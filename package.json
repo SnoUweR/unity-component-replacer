@@ -1,0 +1,8 @@
+{
+    "name": "ru.snouwer.component-replacer",
+    "author": "SnoUweR",
+    "displayName": "Component Replacer",
+    "description": "This utility allows you to replace the component with another component of the same class hierarchy.",
+    "version": "1.0.0",
+    "dependencies": {}
+}
